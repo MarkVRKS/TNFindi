@@ -23,9 +23,11 @@
 	> `PyxelEdit`: всё компактненько  
 
 ## 4.ЗВУК (РЕСУРСЫ ЗВУКА)
-	Audacity: редактор звука [AUDACITY](https://www.audacityteam.org/download/)
+- **Audacity**: 
+	-редактор звука [AUDACITY](https://www.audacityteam.org/download/)
 
-	Free sound resourse: бесплатные звуковые ресурсы[FREESOUND](https://freesound.org/)
+- **Free sound resourse**: 
+	-бесплатные звуковые ресурсы[FREESOUND](https://freesound.org/)
 
 ## 5.ФУНКЦИОНАЛ ИГРЫ
 	Игровой процесс: 
@@ -40,5 +42,8 @@
 		3.Картография (Доступ главного героя посмотреть карту, узнать его местоположения, проложить путь и т.д.)
 	ПОЛЕЗНЫЕ ССЫЛКИ: C++: https://habr.com/ru/articles/708486/
 				           JavaScript: https://habr.com/ru/articles/762132/
+
+
+# Задачи на предстоящий период
 
 
