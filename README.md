@@ -1,8 +1,8 @@
 ## Необходимая документация для создание игры: 
 
-> Unity-графика: `https://docs.unity3d.com/Manual/Quickstart2DCreate.html`
-> Unity-настройка интерфейса: `https://learn.unity.com/tutorial/2d-game-kit-walkthrough`
-> Unity-создание карты: `https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity`
+> [Unity-графика] (https://docs.unity3d.com/Manual/Quickstart2DCreate.html)
+> [Unity-настройка интерфейса] (https://learn.unity.com/tutorial/2d-game-kit-walkthrough)
+> [Unity-создание карты] (https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)
 
 ## 1.КОНЦЕПЦИЯ
 	Жанр: Приключенческая игра с элементами головоломки, открытым миром (условно открытым) и RPG.
