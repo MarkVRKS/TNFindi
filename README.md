@@ -1,16 +1,16 @@
-Необходимая документация для создание игры: 
+## Необходимая документация для создание игры: 
 
-Unity-графика: https://docs.unity3d.com/Manual/Quickstart2DCreate.html
-Unity-настройка интерфейса: https://learn.unity.com/tutorial/2d-game-kit-walkthrough
-Unity-создание карты: https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity
-<code>
-1.КОНЦЕПЦИЯ
+> Unity-графика: `https://docs.unity3d.com/Manual/Quickstart2DCreate.html`
+> Unity-настройка интерфейса: `https://learn.unity.com/tutorial/2d-game-kit-walkthrough`
+> Unity-создание карты: `https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity`
+
+## 1.КОНЦЕПЦИЯ
 	Жанр: Приключенческая игра с элементами головоломки, открытым миром (условно открытым) и RPG.
 	Сюжет: // попозже появится
 	Персонажи: // появятся вместе с сюжетом
 	Локации, в которых будет разворачиваться сюжет: // появится вместе с сюжетом
-</code>
-2.РАБОЧИЙ СТЕК (НА ВЫБОР)
+
+## 2.РАБОЧИЙ СТЕК (НА ВЫБОР)
 	JavaScript + TypeScript: https://habr.com/ru/articles/741086/ ← удобные фреймворки для создания игр на js/ts
 	
 	C++   +   C#: Удобные языки для создания игр. Есть удобные редакторы под них (Unity, Unreal Engine, Godot)
@@ -20,11 +20,11 @@ Unity-создание карты: https://github.com/ammarsufyan/Procedural-2D-
 	Aseprite: популярная программа для аннимаций 2д объектов
 	> `PyxelEdit`: всё компактненько  
 
-4.ЗВУК (РЕСУРСЫ ЗВУКА)
+# 4.ЗВУК (РЕСУРСЫ ЗВУКА)
 	Audacity: редактор звука (https://www.audacityteam.org/download/)
 	Free sound resourse: бесплатные звуковые ресурсы (https://freesound.org/)
 
-5.ФУНКЦИОНАЛ ИГРЫ
+# 5.ФУНКЦИОНАЛ ИГРЫ
 	Игровой процесс: 
 		1.Возможность перемещения
 		2.Взаимодействие с объектами (NPC, лут)
