@@ -1,8 +1,8 @@
-<h1 align="center">Vue Baremetrics Calendar</h1>
+<h1 align="center">Необходимая документация для создание игры</h1>
 
-<h2 align="center">Vue Baremetrics Calendar</h2>[Unity-графика](https://docs.unity3d.com/Manual/Quickstart2DCreate.html)
+<h2 align="center">[Unity-графика](https://docs.unity3d.com/Manual/Quickstart2DCreate.html)</h2>
 
-<h2 align="center">Vue Baremetrics Calendar</h2>[Unity-настройка интерфейса](https://learn.unity.com/tutorial/2d-game-kit-walkthrough)
+<h2 align="center">[Unity-настройка интерфейса](https://learn.unity.com/tutorial/2d-game-kit-walkthrough)</h2>
 
 **Создание карты. Генерация. Туториал в UNITY -**  [Unity-создание карты](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)
 
