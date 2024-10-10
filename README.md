@@ -1,7 +1,9 @@
 ## Необходимая документация для создание игры: 
 
 [Unity-графика](https://docs.unity3d.com/Manual/Quickstart2DCreate.html)
+
 [Unity-настройка интерфейса](https://learn.unity.com/tutorial/2d-game-kit-walkthrough)
+
 [Unity-создание карты](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)
 
 ## 1.КОНЦЕПЦИЯ
@@ -21,8 +23,9 @@
 	> `PyxelEdit`: всё компактненько  
 
 ## 4.ЗВУК (РЕСУРСЫ ЗВУКА)
-	Audacity: редактор звука (https://www.audacityteam.org/download/)
-	Free sound resourse: бесплатные звуковые ресурсы (https://freesound.org/)
+	Audacity: редактор звука [AUDACITY](https://www.audacityteam.org/download/)
+
+	Free sound resourse: бесплатные звуковые ресурсы[FREESOUND](https://freesound.org/)
 
 ## 5.ФУНКЦИОНАЛ ИГРЫ
 	Игровой процесс: 
@@ -37,3 +40,4 @@
 		3.Картография (Доступ главного героя посмотреть карту, узнать его местоположения, поставить точку дома, проложить путь и т.д.)
 	ПОЛЕЗНЫЕ ССЫЛКИ: C++: https://habr.com/ru/articles/708486/
 				           JavaScript: https://habr.com/ru/articles/762132/
+
