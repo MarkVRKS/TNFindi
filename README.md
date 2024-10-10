@@ -3,12 +3,13 @@
 Unity-графика: https://docs.unity3d.com/Manual/Quickstart2DCreate.html
 Unity-настройка интерфейса: https://learn.unity.com/tutorial/2d-game-kit-walkthrough
 Unity-создание карты: https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity
-
+<code>
 1.КОНЦЕПЦИЯ
 	Жанр: Приключенческая игра с элементами головоломки, открытым миром (условно открытым) и RPG.
 	Сюжет: // попозже появится
 	Персонажи: // появятся вместе с сюжетом
 	Локации, в которых будет разворачиваться сюжет: // появится вместе с сюжетом
+</code>
 2.РАБОЧИЙ СТЕК (НА ВЫБОР)
 	JavaScript + TypeScript: https://habr.com/ru/articles/741086/ ← удобные фреймворки для создания игр на js/ts
 	
