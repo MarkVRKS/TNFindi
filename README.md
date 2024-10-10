@@ -18,7 +18,7 @@ Unity-создание карты: https://github.com/ammarsufyan/Procedural-2D-
 ## 3.ГРАФИКА:
 	Adobe: 2d графика
 	Aseprite: популярная программа для аннимаций 2д объектов
-	> PyxelEdit: всё компактненько  
+	> `PyxelEdit`: всё компактненько  
 
 4.ЗВУК (РЕСУРСЫ ЗВУКА)
 	Audacity: редактор звука (https://www.audacityteam.org/download/)
