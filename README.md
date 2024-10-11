@@ -41,10 +41,14 @@ git add filename1 filename2
 ```
 
 И коммитим все наши изменения! ОБЯЗАТЕЛЬНО!!!
-> [!NOTE]
-> ```shell git commit -m``` "Описываем, что конкретно вы сохраняете"
+```shell
+git commit -m "Описываем, что конкретно вы сохраняете"
+```
+
 И пушим всё на гитхаб:
-```shell git push origin main```
+```shell
+git push origin main
+```
      
 
      
