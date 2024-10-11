@@ -6,34 +6,45 @@
 
 **Создание карты. Генерация. Туториал в UNITY -**  [Unity-создание карты](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)
 
-**СОХРАНЕНИЕ РЕПОЗИТОРИЯ НА ПК**
+## СОХРАНЕНИЕ РЕПОЗИТОРИЯ НА ПК
 
 > [!TIP]
-> При помощи cd опускаемся до нужно вам директории (C:\Users\YourName\...)
+> ## При помощи cd опускаемся до нужно вам директории (C:\Users\YourName\...)
 
 В cmd клонируем репу: 
->`git clone https://github.com/MarkVRKS/TNFindi.git`
-
+```shell 
+git clone https://github.com/MarkVRKS/TNFindi.git`
+```
 Запускаем наш проект:
-> `git add .`
-
+```shell
+git add .
+```
 *Соединяемся с VScode при помощи Git BUSH!!!*
 
 Ищем клонируемый репозиторий у нас в файлах в компьютере, проверям, всё ли сохранили (нажмите ещё раз Ctrl + S)
 Затем нажимаем пк по нашей папке (TNFindi) и выбираем ***Open Git Bash here***!!!
 Либо же просто в Git Bash вводим путь до файла: 
-> `cd C:\Users\...\TNFindi`
+```shell
+cd C:\Users\...\TNFindi
+```
 Проверяем статус нашей директории:
-> `git status`
+```shell
+git status
+```
 Если у вас есть несохраненные изменения, Git Bash покажет список файлов, которые были изменены.
 Добавляем изменения (если они необходимы) через ввод в консоль 
-> `git add .`
-> `git add filename1 filename2`
+```shell 
+git add .
+```
+```shell 
+git add filename1 filename2
+```
+
 И коммитим все наши изменения! ОБЯЗАТЕЛЬНО!!!
 > [!NOTE]
-> git commit -m "Описываем, что конкретно вы сохраняете"
+> ```shell git commit -m``` "Описываем, что конкретно вы сохраняете"
 И пушим всё на гитхаб:
-> `git push origin main`
+```shell git push origin main```
      
 
      
