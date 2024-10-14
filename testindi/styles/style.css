@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "minecraft";
+  src: url('minecraft.ttf');
+  font-style: normal;
+  font-weight: 300;
+}
+
+  •{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "minecraft", sans-serif;
+    font-size: 20px;
+  }
+  
+  body {
+    background-color: #282c34;
+    color: white;
+    font-family: "minecraft", sans-serif; 
+  }
+  
+  #image-box {
+    border: 4px solid white;
+    height: 200px;
+    width: 60%;
+    margin: 15px auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  #opponent {
+    height: 192px;
+  }
+  
+  #text-box {
+    border: 4px solid white;
+    height: 80px;
+    text-align: center;
+    width: 60%;
+    margin: 10px auto;
+    padding: 20px;
+    font-family: 'minecraft', sans-serif; 
+  }
+  
+  #options {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  #option-1, #option-2, #option-3, #option-4 {
+    height: 60px;
+    width: 19.5%;
+    border: 4px solid white;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 17px;
+    padding: 10px;
+  }
+  
+  #option-1:hover, #option-2:hover, #option-3:hover, #option-4:hover {
+    background: white;
+    color: black;
+  }
+
+  #audio-controls {
+    position: fixed;
+    top: 10px; 
+    right: 10px; 
+    z-index: 1002;
+  }
+  
+  #volume-icon {
+    width: 30px;
+    height: auto;
+    cursor: pointer; 
+  }
+  
+
+  .dropbtn {
+    padding: 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .touchboy {
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+    padding: 20px;
+  }
+  
+  .btn-open-popup {
+    margin: 5px 0;
+    width: 80%;
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  
+  .popup-box {
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  .overlay-container {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    margin-top: 450px;
+  }
+
+.btn-submit, .btn-close-popup {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px; 
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-top: 10px;
+}
+
+.btn-submit {
+  background:url(images/dialog.png);
+  background-color: rgba(0, 128, 0, 0.8);
+  color: antiquewhite;
+}
+
+.btn-close-popup {
+  background-color: rgba(255, 0, 0, 0.8);
+  color: white;
+}
+
+.btn-submit:hover,
+.btn-close-popup:hover {
+    background-color: rgba(54, 75, 54, 0.9);
+}

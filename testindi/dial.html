@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href="https://fonts-online.ru/fonts/minecraft-rus&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>dialogue</title>
+</head>
+<body>
+
+  <div class="touchboy">
+    <button onclick="choose()" class="dropbtn" style="border: none; background: none; padding: 0;">
+      <img src="images/testg.png" alt="Image" style="display: block; margin: 0 auto; width: 10%">
+    </button>
+    <div id="loginDropdown" class="dropdown-content">
+      <button id="telling" class="btn-open-popup" onclick="storytell1()">FUCK ME Поговорить</button>         
+      <button id="closing" class="btn-open-popup" onclick="closePopup()">Закрыть</button>    
+    </div>
+  </div>
+
+  <div id="popupOverlayReg" class="overlay-container">
+    <div class="popup-box">
+      <h2 style="color:aliceblue">Желаете ли зайти к кузнецу Генрику?</h2>
+      <div id="image-box"><img id="opponent" src="images/chartest.png"></div>
+      <button class="btn-submit" type="button">Да. Было бы славно</button>
+      <button class="btn-close-popup" onclick="closePopup()">Закрыть</button>
+    </div>
+  </div>
+
+  <div id="audio-controls">
+    <img id="volume-icon" src="images/son.png" alt="Включить звук"> 
+    <input type="range" min="0" max="100" value="50" id="volume_range" 
+    oninput="document.getElementById('myaudio').volume = this.value / 100" 
+    onchange="this.oninput()" 
+    style="width: 80px; background-color: #808000;"> 
+  </div> 
+
+  <audio id="myaudio" loop autoplay>
+    <source src="sounds/mainmenu.mp3" type="audio/ogg; codecs=vorbis" />
+  </audio>
+  
+  <script src="main.js"></script>
+  
+</body>
+</html>
