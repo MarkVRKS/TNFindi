@@ -1,5 +1,9 @@
 <h1 align="center", style="color:blue;">Необходимая документация для создание игры</h1>
 
+<p align="center">
+  <img src="https://github.com/TNFindi/testindi/images/photo_2024-10-15_15-31-14.jpg"/>
+</p>
+
 **Графика на UNITY -** [Unity-графика](https://docs.unity3d.com/Manual/Quickstart2DCreate.html)
 
 **Настройка интерфейса. Туториал в UNITY -**  [Unity-настройка интерфейса](https://learn.unity.com/tutorial/2d-game-kit-walkthrough)
